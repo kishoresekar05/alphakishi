@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alphakishi
+- 👋 Hi, I’m @Kishore
 - 👀 I’m interested in learning programming 
 - 🌱 I’m currently learning basics of python
 - 💞️ I’m looking to collaborate on creating a web development 
