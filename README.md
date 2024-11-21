@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @Kishore
-- 👀 I’m interested in learning programming 
-- 🌱 I’m currently learning basics of python
-- 💞️ I’m looking to collaborate on creating a web development 
-- 📫 How to reach me ...?
+
+Let’s update your GitHub bio to reflect your current skills and aspirations! Here's a suggestion for your new profile:
+
+👋 Hi, I’m @Kishore
+👀 I’m passionate about software development and constantly learning new technologies.
+🌱 I’m currently building projects with Java, HTML, CSS, and JavaScript.
+💼 I’m looking to collaborate on web development and Java-based applications.
+🎯 My goal is to become a skilled full-stack developer.
+📫 Reach me at kishoresekar7094@gmail.com
 
 <!---
 alphakishi/alphakishi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
